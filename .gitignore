@@ -56,6 +56,9 @@ out/
 # Cache
 .cache/
 *.cache
+__pycache__/
+*.pyc
+*.pyo
 
 # Personal/Private data
 private/

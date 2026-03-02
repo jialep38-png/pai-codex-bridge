@@ -169,8 +169,8 @@ runtime 增加 `launch-codex`，自动完成：
 
 ### 10.1 已写入位置
 
-- `C:\Users\shmil\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`
-- `C:\Users\shmil\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+- `<YOUR_HOME>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`
+- `<YOUR_HOME>\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
 ### 10.2 接管逻辑
 

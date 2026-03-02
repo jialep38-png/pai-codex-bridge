@@ -18,6 +18,7 @@
 `workflow/done/260302-codex-equivalence-runtime.md` - 构建 Codex 运行时以模拟 Claude Hook 生命周期，追求高等价兼容
 `workflow/done/260302-codex-direct-usable.md` - 提供一键启动与 doctor 自检，让 Codex 直接可用
 `workflow/done/260302-github-opensource-package-and-report.md` - 产出万字工作总结并封装 GitHub 可上传开源发布包
+`workflow/done/260302-repo-compliance-privacy-audit.md` - 仓库合规与隐私审计（敏感信息扫描、许可归属检查、风险分级）
 
 ## 全局重要记忆
 - 当前仓库是多版本发布仓库，核心可运行载荷位于 `Releases/*/.claude/`。
