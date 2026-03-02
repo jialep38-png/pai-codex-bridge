@@ -1,0 +1,23 @@
+# NOTICE
+
+This repository (`pai-codex-bridge`) is a derivative work based on:
+
+- Project: Personal AI Infrastructure (PAI)
+- Upstream URL: https://github.com/danielmiessler/Personal_AI_Infrastructure
+- Upstream License: MIT
+
+## What was changed
+
+This repository adds Codex-oriented compatibility and usability layers, including:
+
+1. Codex bridge generation flow
+2. Runtime lifecycle orchestration for hook simulation
+3. One-command launcher and doctor checks
+4. Auto mode integration for PowerShell usage
+5. Additional open-source packaging and documentation files
+
+## License compliance
+
+1. The original MIT license text is preserved in `LICENSE`.
+2. This derivative distribution keeps attribution to the upstream project.
+3. Modifications in this repository are distributed under MIT-compatible terms.
